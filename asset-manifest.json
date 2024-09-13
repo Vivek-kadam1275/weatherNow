@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Vivek-kadam1275/weatherNow/static/css/main.2e7c5cd4.css",
-    "main.js": "/Vivek-kadam1275/weatherNow/static/js/main.295f0509.js",
-    "static/js/453.63261c35.chunk.js": "/Vivek-kadam1275/weatherNow/static/js/453.63261c35.chunk.js",
-    "static/media/background.jpg": "/Vivek-kadam1275/weatherNow/static/media/background.f528c99f54b58de41d8c.jpg",
-    "static/media/cloud.png": "/Vivek-kadam1275/weatherNow/static/media/cloud.5a6b26ae91a4cfbf3ecb.png",
-    "static/media/notfound.png": "/Vivek-kadam1275/weatherNow/static/media/notfound.c0ebd86728133fcef916.png",
-    "static/media/mist.png": "/Vivek-kadam1275/weatherNow/static/media/mist.e336ebeaa56e7819b79b.png",
-    "static/media/snow.png": "/Vivek-kadam1275/weatherNow/static/media/snow.d441ed9fb3ea0a22715e.png",
-    "static/media/rain.png": "/Vivek-kadam1275/weatherNow/static/media/rain.8240ee9d22ab21725f18.png",
-    "static/media/clear.png": "/Vivek-kadam1275/weatherNow/static/media/clear.b9462d7c9f562f1af49d.png",
-    "static/media/logo.svg": "/Vivek-kadam1275/weatherNow/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Vivek-kadam1275/weatherNow/index.html",
-    "main.2e7c5cd4.css.map": "/Vivek-kadam1275/weatherNow/static/css/main.2e7c5cd4.css.map",
-    "main.295f0509.js.map": "/Vivek-kadam1275/weatherNow/static/js/main.295f0509.js.map",
-    "453.63261c35.chunk.js.map": "/Vivek-kadam1275/weatherNow/static/js/453.63261c35.chunk.js.map"
+    "main.css": "/weatherNow/static/css/main.d7e9fa23.css",
+    "main.js": "/weatherNow/static/js/main.02eb8714.js",
+    "static/js/453.63261c35.chunk.js": "/weatherNow/static/js/453.63261c35.chunk.js",
+    "static/media/background.jpg": "/weatherNow/static/media/background.f528c99f54b58de41d8c.jpg",
+    "static/media/cloud.png": "/weatherNow/static/media/cloud.5a6b26ae91a4cfbf3ecb.png",
+    "static/media/notfound.png": "/weatherNow/static/media/notfound.c0ebd86728133fcef916.png",
+    "static/media/mist.png": "/weatherNow/static/media/mist.e336ebeaa56e7819b79b.png",
+    "static/media/snow.png": "/weatherNow/static/media/snow.d441ed9fb3ea0a22715e.png",
+    "static/media/rain.png": "/weatherNow/static/media/rain.8240ee9d22ab21725f18.png",
+    "static/media/clear.png": "/weatherNow/static/media/clear.b9462d7c9f562f1af49d.png",
+    "static/media/logo.svg": "/weatherNow/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/weatherNow/index.html",
+    "main.d7e9fa23.css.map": "/weatherNow/static/css/main.d7e9fa23.css.map",
+    "main.02eb8714.js.map": "/weatherNow/static/js/main.02eb8714.js.map",
+    "453.63261c35.chunk.js.map": "/weatherNow/static/js/453.63261c35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e7c5cd4.css",
-    "static/js/main.295f0509.js"
+    "static/css/main.d7e9fa23.css",
+    "static/js/main.02eb8714.js"
   ]
 }
