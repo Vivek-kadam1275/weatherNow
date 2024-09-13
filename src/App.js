@@ -14,7 +14,7 @@ import notfound from "./assets/notfound.png"
 function App() {
   const [weatherData, setWeatherData] = useState({});
   const [loading, setLoading] = useState(true)
-  const [titleCity, setTitleCity] = useState('India');
+  const [titleCity, setTitleCity] = useState('Pune');
   const [apiCity, setApiCity] = useState(titleCity);
   var imgSrc;
 
